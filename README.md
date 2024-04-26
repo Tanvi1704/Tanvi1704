@@ -1,26 +1,23 @@
-# Hi 👋 I'm Aniket Suthar
+# Hi 👋 I'm Tanvi Agrawal
 🎯 A passionate Computer Science Student @PDEU'25
 
 💻 I'm skilled in programming with Javascript, C++ and Python. 🚀 Building backends is my passion!
 
-💻✨ I have built several projects using the MERN stack, MySQL, Restful APIs, OpenAI API, Python, Langchain and also skilled in using tools like Docker
+💻✨ I have built several projects using the MERN stack, MySQL, Restful APIs, OpenAI API, Python  and also skilled in using tools like Docker
 
-📚 I also have foundational knowledge of DSA and OOPS. 🧑‍💻 Currently learning AI/ML.
+📚 I also have foundational knowledge of DSA and OOPS. 🧑‍💻 
 
-🤖 Want to explore more about AI/ML and Cloud Computing.
+🤖 Want to explore more about Full Stack Development.
 
-🖥 You can check all my projects [here](https://github.com/aniketsuthar).
+🖥 You can check all my projects [here](https://github.com/Tanvi1704).
 
-## Connect with me
-- [nielsencv_ai](https://github.com/nielsencv_ai)
-- [nicolaiai](https://github.com/nicolaiai)
 
 ### 💻 Tech Skills:
 #### Programming Languages
-JavaScript TypeScript C++ Python Java Solidity Shell Script Scala
+JavaScript C++ Python Java
 
 #### Development
-NodeJS Express.js React JWT Vercel Vite CSS3 TailwindCSS HTML5
+NodeJS Express.js React JWT Vercel Vite CSS3 HTML5
 
 #### Frameworks
 Apache Hadoop Apache Spark
@@ -35,7 +32,7 @@ AWS Docker
 LeetCode Codeforces Codechef HackerRank GeeksforGeeks
 
 ## 📊 GitHub Stats:
-[![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketsuthar)](https://github.com/aniketsuthar)
+[![Tanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanvi1704)](https://github.com/Tanvi1704)
 
 ## ✍️ Dev Quote
 "Your quote here."
