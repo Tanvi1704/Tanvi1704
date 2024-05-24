@@ -15,6 +15,8 @@
 
 🖥 You can check all my projects [here](https://github.com/Tanvi1704).
 
+<br>
+
 
 # 💻 Tech Skills:
 ### Programming Languages
