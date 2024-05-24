@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Farieljakubowski.medium.com%2Fi-passed-every-coding-challenge-at-flatiron-school-my-first-try-heres-how-23302a1bfe46&psig=AOvVaw1gzikQvLUcVH-lAGwNWbpa&ust=1716621988511000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDUpbLhpYYDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:875/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 
 🎯 Computer Science Student @PDEU'25
